@@ -1,9 +1,9 @@
-# LearnCN Legal Pages
+# RealChinese Legal Pages
 
 隐私政策与服务条款的公开页面（GitHub Pages 托管）。
 
-- `privacy-policy.html` — 隐私政策（中英双语，覆盖 iOS + Google Play）
-- `terms-of-use.html` — 服务条款（中英双语，覆盖 iOS + Google Play）
+- `privacy-policy.html` — Privacy Policy（English only, covers iOS + Google Play）
+- `terms-of-use.html` — Terms of Use（English only, covers iOS + Google Play）
 
 ## 发布到 GitHub Pages（一次性）
 
